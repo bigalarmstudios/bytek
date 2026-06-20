@@ -1,0 +1,9 @@
+---------------------
+available commands:
+/help - display help information
+- release date for bread in school
+- how to get the game
+- how to play
+- why do we have simple websites
+- I want to add more commands
+----------------------
