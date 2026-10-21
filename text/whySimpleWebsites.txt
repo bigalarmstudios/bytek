@@ -1,3 +1,3 @@
 Bytek: We are a studio, focused on gamers that have low-end hardware and poor internet.
 Our goal is to provide gaming for all people, that's why the website is lightweight, so it can load on slow internet.
-(3 seconds on 0,01 mbps up and down). and the games are also small, about 164MB.
+(3 seconds on 0,01 mbps up and down). The games are also made to be lightweight and optimised.
