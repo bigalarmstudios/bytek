@@ -1,1 +1,2 @@
-Bytek: To play the game, you can use the mouse to navigate the menus; W, A, S, D, to move in game!
+Bytek: To play the game, you can use the mouse to navigate the menus, W A S D or optionally arrow keys to move in levels.
+For rap battle mechanics, use keys on your keyboard according to the prompts in-game.
