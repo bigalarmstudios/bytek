@@ -4,3 +4,4 @@ You can use numbers to reference them in the order specified in the first help f
 ex:. 1; 2; 3
 commands not working?
 Please use sentences without special characters, punctuation, emojis, etc.
+---------------------
